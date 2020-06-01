@@ -1,11 +1,20 @@
-# This is a large heading
+# Something about myself
 
-## This is a smaller heading
+My name is Tejas and I stay in the city of Belmont of the state California in the United States of America.
+I like reading books and watching movies.
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+##Books that I like 
+
+- Lord of the rings by J.R. Tolkein
+- The day of jackal by Frederick Forsysthe
+- Odessa files by Frederick Forsysthe
+
+##Movies that I like
+
+1. Lord of the rings trilogy
+2. Coco
+3. Up
+
 
 - This is
 - an unordered
