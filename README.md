@@ -15,7 +15,14 @@ I like reading books and watching movies.
 2. Coco
 3. Up
 
+Sports that I like :
 
+1. Cricket
+2. Badminton
+3. Pingpong
+4. Soccer
+
+<How about some code?>
 - This is
 - an unordered
 - list
